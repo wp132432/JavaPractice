@@ -9,7 +9,7 @@ public class PrimitiveDataType {
 		double iutall = 161.8;
 		float iuweight = 44.3f;
 		char iublood = 'A';
-		
+		//수정
 		System.out.println("<<아이유 프로필>>");
 		System.out.println("이름 : "+iuname );
 		
